@@ -10,11 +10,11 @@ Ce dépôt contient les fichiers nécessaires pour [ton projet ou script spécif
 Pour cloner le projet et décompresser les fichiers, utilisez les commandes suivantes :
 
 ```bash
-# 1️⃣ Cloner le dépôt
+# 1️⃣  @
 git clone https://github.com/hackzdg/mmts.git
 
-# 2️⃣ Entrer dans le dossier cloné
+# 2️⃣  @
 cd mmts
 
-# 3️⃣ Décompresser le fichier smm.tar.gz
+# 3️⃣ @ 
 tar -xzvf smm.tar.gz
